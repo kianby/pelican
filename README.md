@@ -1,5 +1,5 @@
-pelican
-=======
+PluXml to Pelican
+=================
 
 pluxml2pelican.py is a weblog migration tool to move from
 [PluXml](http://www.pluxml.org) to [Pelican](http://blog.getpelican.com). 
